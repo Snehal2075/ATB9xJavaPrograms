@@ -16,8 +16,5 @@ public class Lab003 {
         System.out.println("Division");
         System.out.println("30/2=15");
 
-        //This is test
-//        by Snehal Sawant on Oct 3
-
     }
 }
