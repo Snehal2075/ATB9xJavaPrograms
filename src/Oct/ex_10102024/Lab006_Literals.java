@@ -1,6 +1,6 @@
 package Oct.ex_10102024;
 
-public class Lab006 {
+public class Lab006_Literals {
     public static void main(String[] args) {
 
 //     ****** BINARY LITERAL*******
