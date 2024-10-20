@@ -1,6 +1,6 @@
-package Oct.ex_09102024;
+package Oct.ex_09102024_Printf;
 
-public class Lab005_printf {
+public class Lab005 {
     public static void main(String[] args) {
         int i = 5;
         System.out.println("Table of 5");

@@ -1,4 +1,4 @@
-package Oct.ex_17102024;
+package Oct.ex_17102024_IfCondition;
 
 import java.util.Scanner;
 

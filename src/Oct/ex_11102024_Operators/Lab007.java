@@ -1,6 +1,6 @@
-package Oct.ex_11102024;
+package Oct.ex_11102024_Operators;
 
-public class Lab007_Operators {
+public class Lab007 {
     public static void main(String[] args) {
 
 //        Types of Operators
