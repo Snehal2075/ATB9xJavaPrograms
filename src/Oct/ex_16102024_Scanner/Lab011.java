@@ -2,7 +2,7 @@ package Oct.ex_16102024_Scanner;
 
 import java.util.Scanner;
 
-public class Lab0011 {
+public class Lab011 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

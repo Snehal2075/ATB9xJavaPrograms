@@ -1,6 +1,6 @@
 package Oct.ex_16102024_Scanner;
 
-public class Lab0012_Maxvalue {
+public class Lab012_Maxvalue {
     public static void main(String[] args) {
 
         int num1 = 44;
