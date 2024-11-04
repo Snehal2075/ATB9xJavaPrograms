@@ -2,7 +2,7 @@ package Oct.ex_17102024_IfCondition;
 
 import java.util.Scanner;
 
-public class Lab0014_TriangleQ {
+public class Lab014_TriangleQ {
     public static void main(String[] args) {
 
         // Classify the Triangle on basis of its side lengths

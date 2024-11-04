@@ -2,7 +2,7 @@ package Oct.ex_17102024_IfCondition;
 
 import java.util.Scanner;
 
-public class Lab0013_Practice250Java {
+public class Lab013_Practice250Java {
 
     public static void main(String[] args) {
 
