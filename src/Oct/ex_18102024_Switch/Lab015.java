@@ -1,8 +1,8 @@
-package Oct.ex_18102024;
+package Oct.ex_18102024_Switch;
 
 import java.util.Scanner;
 
-public class Lab0015_Switch {
+public class Lab015 {
 
     public static void main(String[] args) {
 

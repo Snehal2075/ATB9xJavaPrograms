@@ -1,8 +1,8 @@
-package Oct.ex_18102024;
+package Oct.ex_18102024_Switch;
 
 import java.util.Scanner;
 
-public class Lab0016 {
+public class Lab016 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package Oct.ex_18102024_Switch;
 
 import java.util.Scanner;
 
-public class Lab0017 {
+public class Lab017 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
